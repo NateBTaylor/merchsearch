@@ -1,0 +1,19 @@
+{
+  "name": "merchsearch",
+  "version": "1.0.0",
+  "description": "Soccer jerseys",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NateBTaylor/merchsearch.git"
+  },
+  "author": "Nate Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NateBTaylor/merchsearch/issues"
+  },
+  "homepage": "https://github.com/NateBTaylor/merchsearch#readme"
+}
